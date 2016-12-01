@@ -1,4 +1,5 @@
 # SCSS Ecommerce Template
+
 The SCSS Ecommerce Template will help you rapidly get a new project up and running without the need to clear out or create a new scss project structure.
 
 ## Instructions
